@@ -1,12 +1,10 @@
 ---
 title: "Github Issue Dashboard"
-author: "Jimmy Briggs"
+author: "Gavin Kelly"
 params:
-  users: jimbrig
+  users: macroscian
   orgs: 
-    - jimbrig-work
-    - tychobra
-    - powwater
+    - BABS-STP
 output: 
   flexdashboard::flex_dashboard
 ---
